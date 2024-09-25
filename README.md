@@ -3,7 +3,10 @@ L'espace client de Echo-Host
 
 
 # __Indépendance:__
-- firebase
+- firebase:
+``
 - express
 - body-parser
 - ejs
+- firebase-admin
+
